@@ -1,5 +1,9 @@
 Analysis:
+
 ![image](https://github.com/Akashk21/Spotify-Data-Analysis-/assets/71625383/817b6a1d-ae37-4357-af9e-4ece785400f2)
+
+![image](https://github.com/Akashk21/Spotify-Data-Analysis-/assets/71625383/c25d6be0-ce0b-4214-b910-a820d4c196c1)
+
 
 
 Dataset Used :
