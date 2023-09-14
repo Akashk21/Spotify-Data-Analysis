@@ -5,6 +5,7 @@ Analysis Snippets:
 
 ![image](https://github.com/Akashk21/Spotify-Data-Analysis-/assets/71625383/c25d6be0-ce0b-4214-b910-a820d4c196c1)
 
+![image](https://github.com/Akashk21/Spotify-Data-Analysis-/assets/71625383/02a5525d-ea12-40cf-a3ca-0209a0dbd401)
 
 
 Dataset Used :
